@@ -79,4 +79,6 @@ While the theoretical model and technical proposal for Intent OS present a robus
 [5] L. Clark, Michael J. O'Brien, and T. Watson, "WebAssembly as a platform-independent sandbox for micro-capabilities," in IEEE International Conference on Software Architecture (ICSA), 2023, pp. 45–56.
 [6] M. J. Freedman and D. Mazières, "Capability-based security for decentralized execution environments," ACM Transactions on Computer Systems (TOCS), vol. 39, no. 2, pp. 112–129, 2021.
 [7] R. V. Yampolskiy and V. Govindaraju, "Continuous biometric user authentication: A survey," ACM Computing Surveys (CSUR), vol. 43, no. 4, pp. 1–39, 2011.
+
+k&j
 ------------------------------
